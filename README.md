@@ -27,6 +27,7 @@ See more here: https://docs.docker.com/
 
 ## Get started
 
+
 1. Install docker and docker-compose, "Docker for Windows" or "Docker for Mac"
 2. Run `git clone https://github.com/hackmdio/docker-hackmd.git`
 3. Change to the directory `docker-hackmd` directory
